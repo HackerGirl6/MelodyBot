@@ -17,6 +17,8 @@ function play(connection, message) {
     });
 }
 
+ver BOT_TOKEN = BOT_TOKEN;
+
 var hug = [
     "https://media.giphy.com/media/du8yT5dStTeMg/giphy.gif",
     "https://media.giphy.com/media/13YrHUvPzUUmkM/giphy.gif",
